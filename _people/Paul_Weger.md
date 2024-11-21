@@ -1,7 +1,7 @@
 ---
 name: Paul Weger
 position: gradstudent
-avatar: Paul_Weger.jpg
+avatar: Paul_cut.gif
 joined: 2024
 ---
 
