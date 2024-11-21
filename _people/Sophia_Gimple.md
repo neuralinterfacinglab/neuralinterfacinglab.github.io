@@ -1,7 +1,7 @@
 ---
 name: Sophia Gimple
 position: gradstudent
-avatar: Sophia_Gimple.jpg
+avatar: Sophia_cut.gif
 twitter: 
 joined: 2023
 ---
