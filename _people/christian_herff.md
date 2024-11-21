@@ -1,7 +1,7 @@
 ---
 name: Christian Herff
 position: pi
-avatar: Christian.jpg
+avatar: Christian_cut.gif
 twitter: HerffC
 joined: 2015
 ---
