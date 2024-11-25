@@ -65,11 +65,11 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| Maarten Ottenhoff | PhD Student (2020 -  2024)| PostDoc at Brown |
-| Berkhan Genc | Visiting Scholar 2023 | PhD Student at UM |
+| [Maarten Ottenhoff](https://nl.linkedin.com/in/maarten-ottenhoff-435b89b7) | PhD Student (2020 -  2024)| PostDoc at Brown |
+| [Berkhan Genc](https://nl.linkedin.com/in/berkhan-genc-a73348a3) | Visiting Scholar 2023 | PhD Student at UM |
 | [Laura Marras](https://www.imtlucca.it/it/laura.marras) | Research Assistant (2021 - 2022) | PhD student @ IMT Lucca, Italy
 | [Jeroen Habets](https://www.linkedin.com/in/jeroen-habets-b6721321/) | PhD Student (2017 - 2021) | Scientific consultant RuneLabs & Postdoc Neurosurgery Charité |
-| Jeremy Saal | Research Assistant (2019 - 2020) | PhD student @ UCSF |
+| [Jeremy Saal](https://www.linkedin.com/in/jeremy-saal-237421b6) | Research Assistant (2019 - 2020) | PhD student @ UCSF |
 | [Jonas Kohler](https://ch.linkedin.com/in/jonasmoritzkohler) | Visiting Researcher (2020) | Researcher @ Oculus |
 
 {% endif %}
