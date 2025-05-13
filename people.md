@@ -65,6 +65,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Sophocles Goulis]([https://nl.linkedin.com/in/maarten-ottenhoff-435b89b7](https://www.linkedin.com/in/sophocles-goulis/)) | PhD Student (2021 -  2025)| PostDoc at UCL |
 | [Maarten Ottenhoff](https://nl.linkedin.com/in/maarten-ottenhoff-435b89b7) | PhD Student (2020 -  2024)| PostDoc at Brown |
 | [Berkhan Genc](https://nl.linkedin.com/in/berkhan-genc-a73348a3) | Visiting Scholar 2023 | PhD Student at UM |
 | [Laura Marras](https://www.imtlucca.it/it/laura.marras) | Research Assistant (2021 - 2022) | PhD student @ IMT Lucca, Italy
